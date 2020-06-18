@@ -7,9 +7,9 @@ https://www.udemy.com/course/python-data-science-with-pandas-master-advanced-pro
 
 
 ### Table of Contents
-1. [Explanatory Data Analysis and Data Presentation - Movies Dataset](#1-explanatory-data-analysis-and-data-presentation-movies-dataset)
+1. [Explanatory Data Analysis and Data Presentation with Movies Dataset](#1-explanatory-data-analysis-and-data-presentation-with-movies-dataset)
 2. [Dataset](#2-dataset)
 
-## 1. Explanatory Data Analysis and Data Presentation - Movies Dataset
+## Explanatory Data Analysis and Data Presentation with Movies Dataset
 
 The main result in this version is to plot de curves from the model for a specific parameter vector and compare this with dataset. In covid/stat.py, functions has been implemented to generate an MCMC sample, through which it will be possible to make inferences of the parametric intervals.
