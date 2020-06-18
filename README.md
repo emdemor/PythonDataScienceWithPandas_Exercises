@@ -7,7 +7,7 @@ https://www.udemy.com/course/python-data-science-with-pandas-master-advanced-pro
 
 
 ### Table of Contents
-1. [Explanatory Data Analysis & Data Presentation (Movies Dataset)](#1-results)
+1. [Explanatory Data Analysis and Data Presentation - Movies Dataset](#1-explanatory-data-analysis-and-data-presentation-movies-dataset)
 2. [Dataset](#2-dataset)
 
 ## 1. Explanatory Data Analysis & Data Presentation (Movies Dataset)
