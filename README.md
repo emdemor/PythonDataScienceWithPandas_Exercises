@@ -1,5 +1,5 @@
 
-# Python Data-Science with Pandas Exercises
+#  Data-Science Exercises on Python with Pandas 
 
 Alexander Hagmann's course exercises on datascience in python with pandas.
 
@@ -14,9 +14,18 @@ https://www.udemy.com/course/python-data-science-with-pandas-master-advanced-pro
 
 ## Project 1 - Explanatory Data Analysis & Data Presentation with Movies Dataset
 
+### Budget
 
 From the dataset, the average budget for each year was calculated. It can be seen a very sharp growth from the 1980s, with the peak in the 2000s. After that, there is a brief period of decline followed by a new boom.
 ![image](./Project_01_Movies/budget.png)
 
 The growing budget since the 1980s has led to increased revenues as well.
 ![image](./Project_01_Movies/budget_revenue.png)
+
+### Genre
+
+Approximately 40% of the films are classified as drama genre. The other most common film genres are Comedy and Thriller. This pattern has always been like this.
+
+![image](./Project_01_Movies/genre_percent.png)
+
+![image](./Project_01_Movies/genre_amount_over_years.png)
