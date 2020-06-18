@@ -14,4 +14,9 @@ https://www.udemy.com/course/python-data-science-with-pandas-master-advanced-pro
 
 ## Project 1 - Explanatory Data Analysis & Data Presentation with Movies Dataset
 
+
+From the dataset, the average budget for each year was calculated. It can be seen a very sharp growth from the 1980s, with the peak in the 2000s. After that, there is a brief period of decline followed by a new boom.
 ![image](./Project_01_Movies/budget.png)
+
+The growing budget since the 1980s has led to increased revenues as well.
+![image](./Project_01_Movies/budget_revenue.png)
