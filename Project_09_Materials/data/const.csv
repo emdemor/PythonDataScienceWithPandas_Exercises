@@ -1,0 +1,31 @@
+Company,Exchange,Symbol,Industry,Date_Added,Ticker
+3M,NYSE,NYSE: MMM,Conglomerate,1976-08-09,MMM
+American Express,NYSE,NYSE: AXP,Financial services,1982-08-30,AXP
+Apple Inc.,NASDAQ,AAPL,Information technology,2015-03-19,AAPL
+Boeing,NYSE,NYSE: BA,Aerospace and defense,1987-03-12,BA
+Caterpillar Inc.,NYSE,NYSE: CAT,Construction and Mining,1991-05-06,CAT
+Chevron Corporation,NYSE,NYSE: CVX,Petroleum industry,2008-02-19,CVX
+Cisco Systems,NASDAQ,CSCO,Information technology,2009-06-08,CSCO
+The Coca-Cola Company,NYSE,NYSE: KO,Food industry,1987-03-12,KO
+Dow Inc.,NYSE,NYSE: DOW,Chemical industry,2019-04-02,DOW
+ExxonMobil,NYSE,NYSE: XOM,Petroleum industry,1928-10-01,XOM
+Goldman Sachs,NYSE,NYSE: GS,Financial services,2013-09-20,GS
+The Home Depot,NYSE,NYSE: HD,Retailing,1999-11-01,HD
+IBM,NYSE,NYSE: IBM,Information technology,1979-06-29,IBM
+Intel,NASDAQ,INTC,Information technology,1999-11-01,INTC
+Johnson & Johnson,NYSE,NYSE: JNJ,Pharmaceutical industry,1997-03-17,JNJ
+JPMorgan Chase,NYSE,NYSE: JPM,Financial services,1991-05-06,JPM
+McDonald's,NYSE,NYSE: MCD,Food industry,1985-10-30,MCD
+Merck & Co.,NYSE,NYSE: MRK,Pharmaceutical industry,1979-06-29,MRK
+Microsoft,NASDAQ,MSFT,Information technology,1999-11-01,MSFT
+Nike,NYSE,NYSE: NKE,Apparel,2013-09-20,NKE
+Pfizer,NYSE,NYSE: PFE,Pharmaceutical industry,2004-04-08,PFE
+Procter & Gamble,NYSE,NYSE: PG,Fast-moving consumer goods,1932-05-26,PG
+Raytheon Technologies,NYSE,NYSE: RTX,Aerospace and defense,1939-03-14,RTX
+The Travelers Companies,NYSE,NYSE: TRV,Financial services,2009-06-08,TRV
+UnitedHealth Group,NYSE,NYSE: UNH,Managed health care,2012-09-24,UNH
+Verizon,NYSE,NYSE: VZ,Telecommunication,2004-04-08,VZ
+Visa Inc.,NYSE,NYSE: V,Financial services,2013-09-20,V
+Walmart,NYSE,NYSE: WMT,Retailing,1997-03-17,WMT
+Walgreens Boots Alliance,NASDAQ,WBA,Retailing,2018-06-26,WBA
+The Walt Disney Company,NYSE,NYSE: DIS,Broadcasting and entertainment,1991-05-06,DIS
