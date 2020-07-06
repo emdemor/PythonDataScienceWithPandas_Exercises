@@ -24,7 +24,7 @@ The growing budget since the 1980s has led to increased revenues as well.
 
 ### Genre
 
-Approximately 40% of the films are classified as drama genre. The other most common film genres are Comedy and Thriller. This pattern has always been like this.
+Approximately 40% of the movies are classified as drama genre. The other most common film genres are Comedy and Thriller. This pattern has always been like this.
 
 ![image](./Project_01_Movies/genre_percent.png)
 
